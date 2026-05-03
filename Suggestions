@@ -1,0 +1,16 @@
+User onboarding - guide them through the using of the software - once they login to the software and create a user 
+Start the first prompt on clicking on the challenges and with some description - currently there is only start training and workspaces option in the dashboard and daily challegne at the bottom - if you can add challenges or daily challenges when clicked take them to them to the challenges page instead of directly to the position
+Challenges - show prompt on for todays challenge which when clicked takes them to challenge details page before to the position and also include how to solve the position below and a prompt to next taking them to the position
+Once they solve or not solve the position a prompt next to take them back to the challenges and explain other options - what is start challenge streak and what is the use of timer and how your score can be counted and connected to the leaderboard in the website
+Similarly explain other options as prompts in challenges - once all of it is done - take them to workspace 
+We can add one file under each section inside the - opening, endgame, tactics, strategy, and tournament - can use freely available to public - and prompts to how to make use of each part and how to connect it as training content and also how to generate insights
+Inlcude blindfold how to use
+Add Generate Report - instead of Report - inside Openings and Tournament
+Marathon session - prompt and steps for all the options - for new user give sample files to use for training
+My games - show how to add your games from PGN or any other format - can provide sample of few games
+Insights is little difficult to understand the use case of it - we can structure it in a different way - 
+Lets add few games for each of these structures which are annotated 
+Based on match tabiyas lets show that position which matched from the given file and on the side structure of it - and below key points and games to watch for ideas
+Things that can be added - Open vs closed positions, Engame structures, Positional structures
+Opening Reportoire in training we can add details of which opening is part of the test so details can be understood
+Can we add Opening trainer similar to that of chess position trainer where random position from the opening reportoire
